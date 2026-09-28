@@ -1,0 +1,6 @@
+{
+  "name": "Ghost-Watch Terminal",
+  "description": "Ghost-Watch C2 Terminal (Apex Tier) and its associated Advanced Canary Trap System.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
